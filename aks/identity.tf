@@ -1,0 +1,1 @@
+# Removed unused azurerm_user_assigned_identity "aks_identity" resource as it was not referenced elsewhere.
